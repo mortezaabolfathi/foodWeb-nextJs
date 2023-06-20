@@ -1,7 +1,9 @@
+import HomePage from "../components/templates/Home/HomePage";
+
 export default function Home() {
   return (
   <div>
-    This is project
+    <HomePage/>
   </div>
   )
 }
